@@ -22,7 +22,7 @@
 
 **4h**
 
-Today is day 1 of working on a project every single day until I graduate. Today we are looking at Hack Club's Starbie project. I can't lie I'm pretty scared right now looking at the overview but I think if I really commit to this, I will go somewhere I would not regret. Today we looked into install kicad (had to delete like 7 different small games for storage : ( ) and installing everything was a pain (thank God youtube is so lovely and nice and amazing). Anyways, we got into working on the software. I cant lie, I feel like tony stark rn except the fact that  i have absolutely no idea what is happening
+Today is day 1 of working on a project every single day until I graduate. Today we are looking at Hack Club's Starbie project. I can't lie I'm pretty scared right now looking at the overview but I think if I really commit to this, I will go somewhere I would not regret. Today we looked into install kicad (had to delete like 7 different small games for storage : ( ) and installing everything was a pain (thank God youtube is so lovely and nice and amazing). Anyways, we got into working on the software. I cant lie, I feel like tony stark rn except the fact that  i have absolutely no idea what is happening. Back to what I was saying, after like 2 youtube tutorials I managed to figure out the UI so now I can get some stuff connected and going. I cant lie, browsing through those libraries took my soul away from me. By the end of the session I managed to finish up the entire schematic. Really excited for tommorow!
 
 ![starbie1.4](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/vX3b3AGJaylBE2mciU1t9tLzRG1aM8qP/62227ad2430c65fb0ef57ddec41fb083e55f71876e41219f80af7211fae00812.jpg)
 
