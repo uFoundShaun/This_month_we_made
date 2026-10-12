@@ -15,7 +15,7 @@
 ## Contents
 
 1. [2026-10-08 – Today is day 1 of working on a project every single day until I graduate. Today we are looking at Hack Club's Starbie project. I can't lie I'm pretty scared right now looking at the overview but I thi](#2026-10-08-today-is-day-1-of-working-on-a-project-every-sing)
-2. [2026-10-11 – Work session](#2026-10-11-work-session)
+2. [2026-10-11 – Today was a lot and I mean ALOT of troubleshooting. When comparing my project with the one on the github tutorial, I realized my connections for GPI02 weren't connected to where it was supposed to be](#2026-10-11-today-was-a-lot-and-i-mean-alot-of-troubleshootin)
 
 ## Design
 
@@ -33,8 +33,10 @@ Today is day 1 of working on a project every single day until I graduate. Today 
 
 ![starbie1.1](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/vX3b3AGJaylBE2mciU1t9tLzRG1aM8qP/121cf8397e14112ddd756ad2d148d69803731e5508d4a46398dabef42cb2b2c9.jpg)
 
-### 2026-10-11 – Work session
+### 2026-10-11 – Today was a lot and I mean ALOT of troubleshooting. When comparing my project with the one on the github tutorial, I realized my connections for GPI02 weren't connected to where it was supposed to be
 
 **2.57h**
+
+Today was a lot and I mean ALOT of troubleshooting. When comparing my project with the one on the github tutorial, I realized my connections for GPI02 weren't connected to where it was supposed to be on the schematic. Took me so so long to realize that I didn't spell GPI02 correctly causing the two connections to not recognize each other... I'll try not to make that mistake. Technically engineers build not read right??? Also had spent alot of time watching videos about how to use net labels for troubleshooting and learned how to make the outline shape of the star for our little starbie. Excited for what tomorrow's session brings!
 
 [Timelapse](https://lookout.hackclub.com/api/media/17420ad9-3067-4a34-8c6b-6a3a916ef5ad/video.mp4)
